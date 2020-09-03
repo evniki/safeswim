@@ -1,6 +1,6 @@
 body {
     padding-top: 5rem;
-  }
+ }
   .tittle {
     padding: 3rem 1.5rem;
     text-align: center;
@@ -10,3 +10,15 @@ body {
       color: cornflowerblue;
   }
 
+  .card1 {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+
+.tips{
+   text-align: center;
+}
+
+.signup {
+  text-align: center;
+}
